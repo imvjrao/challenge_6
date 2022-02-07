@@ -6,8 +6,6 @@ https://imvjrao.github.io/challenge_6/
 # URL of the Github repository
 https://github.com/imvjrao/challenge_6.git
 
-# Acceptance Criteria
-![Acceptance Criteria](./Images/Acceptance-Criteria)
 
 # When you open the Weather App
 1. The weather app shows a Inout field to enter the city
@@ -17,6 +15,3 @@ https://github.com/imvjrao/challenge_6.git
 5. For today's weather and forecast, data is presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index.
 6. The UV index with the presented with 3 different colours for different range- Green for <5; Yellow for >=5 & <=10; and Red for >10
 7. When the city is selected from the Search History, it will again display the Today's and 5 day Future forecast.
-
-# Screenshot of the Deployed website
-!(.Images/Weather-dashboard)
