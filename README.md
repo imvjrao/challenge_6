@@ -1,12 +1,13 @@
 ## Weather DashBoard
 
 # URL of the deployed website
-
+https://imvjrao.github.io/challenge_6/
 
 # URL of the Github repository
+https://github.com/imvjrao/challenge_6.git
 
 # Acceptance Criteria
-![Acceptance Criteria](./Images/Acceptance Criteria)
+![Acceptance Criteria](./Images/Acceptance-Criteria)
 
 # When you open the Weather App
 1. The weather app shows a Inout field to enter the city
@@ -18,3 +19,4 @@
 7. When the city is selected from the Search History, it will again display the Today's and 5 day Future forecast.
 
 # Screenshot of the Deployed website
+!(.Images/Weather-dashboard)
